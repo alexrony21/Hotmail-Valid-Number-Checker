@@ -1,0 +1,4 @@
+Hotmail Valid Number Checker V1
+it will check your number list from a file.txt which is associated with hotmail and which is not . if you wanna buy this tool contact me via Facebook or Telegram . 
+Facebook : https://web.facebook.com/alexrony85/
+Telegram : @alexrony21
