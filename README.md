@@ -1,6 +1,6 @@
 # Hotmail Valid Number Checker
 
-!image[](https://raw.githubusercontent.com/alexrony21/Hotmail-Valid-Number-Checker/refs/heads/main/Hotmail_Valid_Number_Checker.png)
+![image](https://raw.githubusercontent.com/alexrony21/Hotmail-Valid-Number-Checker/refs/heads/main/Hotmail_Valid_Number_Checker.png)
 
 ## Features
 
