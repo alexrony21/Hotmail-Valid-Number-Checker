@@ -1,6 +1,6 @@
 # Hotmail Valid Number Checker
 
-![image](https://raw.githubusercontent.com/alexrony21/Hotmail-Valid-Number-Checker/refs/heads/main/Hotmail_Valid_Number_Checker.png)
+![image](https://raw.githubusercontent.com/alexrony21/Hotmail-Valid-Number-Checker/refs/heads/main/Hotmail_Number_Validator.png)
 
 ## Features
 
@@ -16,4 +16,4 @@ If you want to buy this tool, contact me via Telegram: [@thepythoncode97](https:
 ## Note:
 This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
 
-Thank you!
+Thank you.
